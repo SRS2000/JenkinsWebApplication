@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\New folder\JenkinWebApplication\JenkinWebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinWebApplication.exe
+C:\Users\HP\Desktop\New folder\JenkinWebApplication\JenkinWebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\HP\Desktop\New folder\JenkinWebApplication\JenkinWebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\HP\Desktop\New folder\JenkinWebApplication\JenkinWebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinWebApplication.dll
+C:\Users\HP\Desktop\New folder\JenkinWebApplication\JenkinWebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinWebApplication.deps.json
+C:\Users\HP\Desktop\New folder\JenkinWebApplication\JenkinWebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinWebApplication.runtimeconfig.json
+C:\Users\HP\Desktop\New folder\JenkinWebApplication\JenkinWebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinWebApplication.pdb
